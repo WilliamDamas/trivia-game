@@ -160,6 +160,7 @@ var timeDecrement = function () {
     }
 
 }
+/// This is game over function
 var gameOver = function () {
     $('.trivSection').empty();
     $('.timerSection').empty();
